@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Meditation UI</string>
+    <string name="good_morning">Good Morning,</string>
+    <string name="good_wish">We wish you have a good day!</string>
+    <string name="daily_thought">Daily Thought</string>
+    <string name="meditation_title">Meditation • 3–10 min</string>
+    <string name="sleep_meditation">Sleep Meditation</string>
+    <string name="tips_sleep">Tips for Sleeping</string>
+    <string name="night_island">Night Island</string>
+    <string name="calming_sounds">Calming Sounds</string>
+    <string name="featured">Featured</string>
+    <string name="start">Start</string>
+    <string name="home">Home</string>
+    <string name="meditate">Meditate</string>
+    <string name="sleep">Sleep</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+</resources>
